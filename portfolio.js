@@ -4,9 +4,9 @@ export const greetings = {
   name: "Ahmad Ghorbani",
   title: "Hi all, I'm Ahmad",
   description:
-    "A passionate Full Stack Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.",
+    "A passionate Front End Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.",
   resumeLink:
-    "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d184ac90-7d76-4dac-955f-47dce2d5b8cf",
+    "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:4338dac9-807f-47a3-a381-40028711569c",
 };
 
 export const openSource = {
@@ -148,11 +148,11 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Full Stack Developer",
+    role: "Front End Developer",
     company: "Freelancer",
     companylogo: "/img/icons/common/google.svg",
     date: "December 2019 — October 2021",
-    desc: "Building an online platform for monitoring and controlling a greenhouse performance using these technologies: HTML5, CSS3, JavaScript, React for front-end app and using Node.js, Express and PostgreSQL for back-end",
+    desc: "Building an online platform for monitoring and controlling a greenhouse performance using these technologies: HTML5, CSS3, JavaScript and React.",
   },
   {
     role: "Front-End Developer",

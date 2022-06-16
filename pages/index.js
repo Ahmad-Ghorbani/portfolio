@@ -19,9 +19,9 @@ export default function Home({ githubProfileData }) {
       <SEO
         data={{
           title: "Ahmad Ghorbani",
-          description: "A passionate Full Stack Web Developer.",
+          description: "A passionate Front End Web Developer.",
           image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-          url: "https://developer-portfolio-1hanzla100.vercel.app",
+          url: "https://portfolio-ahmad-ghorbani.vercel.app/",
           keywords: [
             "Ahmad",
             "Ahmad Ghorbani",
@@ -42,7 +42,7 @@ export default function Home({ githubProfileData }) {
       />
       <Navigation />
       <Greetings />
-      <Skills />
+      <Skills />s
       <Proficiency />
       <Education />
       <Experience />
