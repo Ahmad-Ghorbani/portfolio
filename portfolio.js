@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "A passionate Front End Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.",
   resumeLink:
-    "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:4338dac9-807f-47a3-a381-40028711569c",
+    "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:596bee22-0d1f-4a75-97a1-fd8a698a0872",
 };
 
 export const openSource = {
@@ -149,15 +149,22 @@ export const educationInfo = [
 export const experience = [
   {
     role: "Front End Developer",
+    company: "Tiss",
+    companylogo: "/img/icons/common/Untitled.png",
+    date: "January 2022 – present",
+    desc: "Working on an energy consumption management and online payment gateway as a front-end developer using the following tech stack: HTML5, Sass, React, Redux",
+  },
+  {
+    role: "Front End Developer",
     company: "Freelancer",
-    companylogo: "/img/icons/common/google.svg",
+    // companylogo: "/img/icons/common/google.svg",
     date: "December 2019 — October 2021",
     desc: "Building an online platform for monitoring and controlling a greenhouse performance using these technologies: HTML5, CSS3, JavaScript and React.",
   },
   {
     role: "Front-End Developer",
     company: "BACC Co",
-    companylogo: "/img/icons/common/github.svg",
+    // companylogo: "/img/icons/common/github.svg",
     date: "April 2018 — July 2019",
     desc: "Working on an e-commerce platform as a front-end developer using the following tech stack: HTML5, CSS3, JavaScript, React, Redux.",
   },
