@@ -150,7 +150,7 @@ export const experience = [
   {
     role: "Front End Developer",
     company: "Tiss",
-    companylogo: "/img/icons/common/Untitled.png",
+    companylogo: "/img/icons/common/tiss.png",
     date: "January 2022 – present",
     desc: "Working on an energy consumption management and online payment gateway as a front-end developer using the following tech stack: HTML5, Sass, React, Redux",
   },
